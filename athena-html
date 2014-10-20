@@ -1,0 +1,3 @@
+#!/bin/bash
+
+scp -r ./*.html jpnewman@athena.dialup.mit.edu:~/www/

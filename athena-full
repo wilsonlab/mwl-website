@@ -1,0 +1,4 @@
+#!/bin/bash
+
+scp -r ./assets jpnewman@athena.dialup.mit.edu:/afs/athena.mit.edu/org/w/wilsonlab
+scp -r ./*.html jpnewman@athena.dialup.mit.edu:/afs/athena.mit.edu/org/w/wilsonlab
